@@ -1,0 +1,13 @@
+.box {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  height: 3em;
+}
